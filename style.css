@@ -52,13 +52,11 @@ span{
 
 #prender{
     background: rgb(229, 225, 225);
-    opacity: 0;
     transition: 0.5s;
 }
 
 #prender.detected{
     background: rgb(54, 52, 53);
-    opacity: 1;
     transition: 0.5s;
 }
 
